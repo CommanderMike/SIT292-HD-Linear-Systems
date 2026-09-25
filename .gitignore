@@ -1,0 +1,23 @@
+# VS Code settings
+.vscode/
+
+# Personal evidence and report files
+evidence/
+report.tex
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# R history files
+.Rhistory
+.RData
+.Ruserdata
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
