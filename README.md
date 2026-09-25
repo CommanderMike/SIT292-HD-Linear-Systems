@@ -31,6 +31,7 @@ src/
     sparse_scaling.py
     plot_hd_results.py
     plot_scaling_results.py
+    plot_factor_density.py
 
 results/
     Benchmark CSV files
